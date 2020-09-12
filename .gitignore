@@ -1,0 +1,5 @@
+.nova/Configuration.json
+.nova/Tasks/Run.json
+LOOKUPS.csv
+WORDS.csv
+vocab.db
