@@ -5,7 +5,7 @@ from googletrans import Translator
 
 translator = Translator()
 
-filein=open('countdown.tsv')
+filein=open('vocab.tsv')
 fileout=open('deck.tsv', mode='w')
 
 csv_reader = csv.reader(filein, delimiter='\t')
